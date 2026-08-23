@@ -1,0 +1,14 @@
+{
+  "description": "Connect partners, influencers, and customers in a seamless marketplace, enabling product management, campaign creation, and streamlined transactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "ழ — Creator Commerce",
+  "icons": {
+    "icon": "/favicon.svg"
+  }
+}
